@@ -22,7 +22,7 @@ Endpoints-
 
 clone Repo :
 
-    `
+    
         https://github.com/Arpreetkhare/distributed-system.git
         
 Requirements
