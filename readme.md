@@ -19,6 +19,10 @@ Endpoints-
         URL: api/create_order/
         Method: POST
         Description: Creates a new order by providing order_id, user_id, product_id, and quantity.
+
+clone Repo :
+    ```bash
+        
 Requirements
     Python 3.x
     Django
