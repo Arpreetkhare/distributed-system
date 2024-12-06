@@ -22,7 +22,7 @@ Endpoints-
 
 clone Repo :
 
-    ```bash
+    `
         https://github.com/Arpreetkhare/distributed-system.git
         
 Requirements
@@ -32,13 +32,13 @@ Requirements
     How to Run
 Install dependencies:
 
-    bash
+    
         pip install -r requirements.txt
 Run migrations:
 
-    bash
+    
         python manage.py migrate
 Start the development server:
 
-    bash
+  
         python manage.py runserver
